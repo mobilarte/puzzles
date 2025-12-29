@@ -1,0 +1,12 @@
+# https://www.coopzeitung.ch/de/wettbewerbe/binoxxo-aus-der-coopzeitung.html
+
+-x---x---o
+--o-------
+---x-x-o-x
+---x---o-x
+--o---x---
+x--o-o--x-
+--------x-
+-----oo---
+x---------
+-x--------
